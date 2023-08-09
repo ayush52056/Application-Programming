@@ -1,0 +1,10 @@
+Project: File Search Utility
+Description:
+Create a small command-line utility that allows users to search for files with a specific extension in a given directory.
+
+Features:
+
+Prompt the user to enter a directory path and file extension.
+Search for all files with the specified extension in the given directory and its subdirectories.
+Display the list of matching files found.
+If no files are found, show an appropriate message.
